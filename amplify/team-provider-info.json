@@ -11,6 +11,11 @@
       "StackId": "arn:aws:cloudformation:us-west-2:719910384312:stack/amplify-honeydewcarenuxt-dev-213346/e84ec6b0-00ed-11ee-98c5-02fc3431179f",
       "AmplifyAppId": "d2qocu3dodltqc",
       "buildCommand": "npm run build"
+    },
+    "categories": {
+      "auth": {
+        "honeydewcarenuxtc3013933": {}
+      }
     }
   }
 }
